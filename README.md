@@ -6,5 +6,8 @@
 
 成功合并时最上方有相应的记分功能，当界面上的所有方块都充满了数字导致方块不能移动时会弹出游戏结束的提醒框。
 
-### 游戏界面
-<img width="100dp">![](http://od2xrf8gr.bkt.clouddn.com/2048.png)</img>
+### 游戏界面  
+
+
+<img src="http://od2xrf8gr.bkt.clouddn.com/2048.png" width="50%" height="50%">
+
